@@ -49,3 +49,6 @@ I thrive at the intersection of **software engineering, data science, and cloud 
 **⚡ Fun Fact:** I automate mundane tasks just to see computers work harder so I don’t have to! 😎  
 
 **"Data → Code → Intelligence → Impact"**
+
+
+**© 2025 Joseph Gachuru | Software Engineer & Data Engineer** 
