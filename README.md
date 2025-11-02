@@ -21,30 +21,41 @@
 <hr>
 <h4 align="center">🔥 Passionate About Building Intelligent Systems</h4><br>
 
-### 🛠️ **My Toolkit**
+### 🛠️ **Technical Arsenal**
 
-| **Domain** | **Technologies** |
+| **Domain** | **Technologies & Frameworks** |
 | :--- | :--- |
-| **📊 Data Engineering** | Spark | Airflow | Kafka | AWS/GCP/Azure |
-| **🤖 AI/ML** | TensorFlow | Scikit-learn | NLP | OpenCV |
-| **⚙️ DevOps & Cloud** | Docker | Kubernetes | GitHub Actions | Python/Node.js |
+| **📊 Data Engineering** | Spark | Airflow | Kafka | AWS/GCP/Azure | Delta Lake |
+| **🤖 AI/ML Engineering** | TensorFlow | Scikit-learn | NLP | OpenCV | Transformers |
+| **🌐 Backend Development** | **MERN Stack** | Python | Node.js | PHP | REST APIs |
+| **⚙️ DevOps & Cloud** | Docker | Kubernetes | GitHub Actions | CI/CD Pipelines |
 
 ---
 
-### 🎯 **Currently Exploring**
-> 🔹 **MLOps** (MLflow, Kubeflow)  
-> 🔹 **Real-time Streaming** (Flink, Spark Streaming)  
-> 🔹 **Generative AI** (LLMs, Diffusion Models)
+### 🎯 **Innovation Focus**
+> 🔹 **MLOps & Scalability** (MLflow, Kubeflow)  
+> 🔹 **Real-time Data Systems** (Flink, Spark Streaming)  
+> 🔹 **Intelligent Applications** (LLMs, Generative AI, MERN Stack)
 
 ---
 
-### 📫 **Get in Touch**
+### 💡 **What I Bring**
+- **End-to-End Solutions:** From data pipelines to polished web applications
+- **Scalable Architecture:** Cloud-native systems that grow with your needs
+- **Intelligent Backends:** APIs infused with data science capabilities
+- **Production-Ready Code:** Robust, tested, and deployable solutions
+
+---
+
+### 📫 **Let's Build Something Amazing**
 💼 **LinkedIn:** [Joseph Gachuru](https://www.linkedin.com/in/joseph-gachuru/)  
-📱 **Phone/WhatsApp:** +254 743 121 169
+📱 **Phone/WhatsApp:** +254 743 121 169  
+💻 **Portfolio:** coming soon....
 
 <br>
 
-> **"Data → Code → Intelligence → Impact"**
+> **"Architecting the future, one line of code at a time."**<br/>
+> **Data → Intelligence → Scalable Systems → Impact**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jigishas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
