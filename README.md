@@ -50,7 +50,7 @@
 ### 📫 **Let's Build Something Amazing**
 💼 **LinkedIn:** [Joseph Gachuru](https://www.linkedin.com/in/joseph-gachuru/)  
 📱 **Phone/WhatsApp:** +254 743 121 169  
-💻 **Portfolio:** coming soon....
+💻 **Portfolio:** [my portfolio](https://portfolio-site-phi-self.vercel.app/)
 
 <br>
 
