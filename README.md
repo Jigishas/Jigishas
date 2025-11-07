@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💫Hello+I+Am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I'm+a+Software+Developer" alt="Animated Typing Text" />
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💫Hello+I+Am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I'm+a+Software+Developer" alt="Animated Typing Text" />
 
 <div align="center">
 <!-- Animated GIF -->
