@@ -49,7 +49,7 @@
 
 ### 📫 **Let's Build Something Amazing**
 💼 **LinkedIn:** [Joseph Gachuru](https://www.linkedin.com/in/joseph-gachuru/)  
-📱 **Phone/WhatsApp:** +254 743 121 169  
+📱 **Phone/WhatsApp:** [whatsapp](https://wa.me/254743121169) <br/>
 💻 **Portfolio:** [my portfolio](https://portfolio-site-phi-self.vercel.app/)
 
 <br>
