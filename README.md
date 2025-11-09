@@ -7,7 +7,7 @@
 <!-- Animated badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/jigishas?label=Follow&style=social" alt="followers"/>
 </p>
 
 </div>
