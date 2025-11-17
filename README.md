@@ -1,4 +1,4 @@
-<h1 style="center">Hello!</h1>
+<h1 align="center">Hello!</h1>
 hersrredhtr
 
 hdsfre4rnj;
