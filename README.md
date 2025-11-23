@@ -1,4 +1,4 @@
-<h1 align="center" color="violet">Hello!</h1>
+<h4 color="violet">Dev Jose</h4>
 
 #  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💫Hello+I+Am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I'm+a+Software+Developer" alt="Animated Typing Text" />
 
