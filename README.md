@@ -1,6 +1,6 @@
 
 
-#  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=500&height=70&duration=6500&lines=💫Hello+I+Am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I'm+a+Software+Developer" alt="Animated Typing Text" />
+#  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=500&height=70&duration=6500&lines=💫Hello+I+Am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I'm+a+Software+Developer;🥇+I+Build+Complex+And+Intelligent+Systems" alt="Animated Typing Text" />
 
 <div align="center">
 <!-- Animated GIF -->
@@ -22,9 +22,9 @@
 
 <h3 align="center">🚀 Data & Software Engineer | Cloud-Native Solutions | Turning Data into Impact</h3>
 <hr>
-<h4 align="center">🔥 Passionate About Building Intelligent Better Systems</h4><br>
+<!-- <h4 align="center">🔥 Passionate About Building Intelligent Better Systems</h4><br> -->
 <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=20&color=green&center=true&vCenter=true&width=520&height=40&duration=7000&lines=🔥+Passionate+about+Intelligent+Better+Systems;🥇+Passionate+about+healthy+Working+Systems;🌱+Passionate+about+Building+Complex+Systems" 
+  src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=20&color=4FC08D&center=true&vCenter=true&width=520&height=40&duration=7000&lines=🔥+Passionate+about+Intelligent+Better+Systems;🥇+Passionate+about+healthy+Working+Systems;🌱+Passionate+about+Building+Complex+Systems" 
   alt="Animated Passion Text" 
 />
 
