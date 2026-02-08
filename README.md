@@ -54,8 +54,8 @@ Developer Jose
 - **Scalable Architecture:** Cloud-native systems that grow with your needs
 - **Intelligent Backends:** APIs infused with data science capabilities
 - **Production-Ready Code:** Robust, tested, and deployable solutions
-<div align="center"><!-- Project 1 Animation --><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=F7DF1E&center=true&vCenter=true&width=400&height=30&duration=2500&lines=🎯+E-Commerce+Platform+with+React;🛒+Full+shopping+cart+functionality;💳+Secure+payment+integration" alt="Project 1" /><!-- Project 2 Animation --><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=61DAFB&center=true&vCenter=true&width=400&height=30&duration=2500&lines=🚀+Real-time+Chat+Application;💬+WebSocket+based+messaging;👥+Multi-room+chat+support" alt="Project 2" /><!-- Project 3 Animation --><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=4FC08D&center=true&vCenter=true&width=400&height=30&duration=2500&lines=📊+Data+Analytics+Dashboard;📈+Real-time+data+visualization;🔍+Advanced+filtering+options" alt="Project 3" /></div>
 
+<div align="center"><!-- Project 1 Animation --><!-- Project 2 Animation --><h2>Coding in:</h2><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=61DAFB&center=true&vCenter=true&width=400&height=30&duration=5500&lines=🚀+Real-time+Chat+Application;💬+WebSocket+based+messaging;👥+Multi-room+chat+support" alt="Project 2" /><!-- Project 3 Animation --><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=4FC08D&center=true&vCenter=true&width=400&height=30&duration=2500&lines=📊+Data+Analytics+Dashboard;📈+Real-time+data+visualization;🔍+Advanced+filtering+options" alt="Project 3" /></div>
 
 ---
 
