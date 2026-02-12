@@ -24,7 +24,7 @@
 <hr>
 <!-- <h4 align="center">🔥 Passionate About Building Intelligent Better Systems</h4><br> -->
 <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&color=61DAFB&center=true&vCenter=true&width=880&height=50&duration=7000&lines=🔥+Passionate+about+Intelligent+Systems.;🥇+Capable+of+building+healthy+Working+ETL+Pipelines.;🌱+Passionate+about+Building+Complex+Architectures." 
+  src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&color=61DAFB&center=true&vCenter=true&width=880&height=50&duration=7000&lines=🌱+Passionate+about+Intelligent+Systems.;🌱+Capable+of+building+healthy+Working+ETL+Pipelines.;🌱+Passionate+about+Building+Complex+Architectures." 
   alt="Animated Passion Text" 
 />
 
