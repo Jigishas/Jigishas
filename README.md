@@ -81,7 +81,24 @@ Leveraging **data engineering, analytics, and machine learning** to create smart
 Applying **algorithmic thinking, efficient data structures, and best software engineering practices** to build optimized and reliable systems.
 
 ---
-<div align="center"><!-- Project 1 Animation --><!-- Project 2 Animation --><h2>Coding in:</h2><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=61DAFB&center=true&vCenter=true&width=400&height=30&duration=5500&lines=🚀+Real-time+Chat+Application;💬+WebSocket+based+messaging;👥+Multi-room+chat+support" alt="Project 2" /><!-- Project 3 Animation --><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=4FC08D&center=true&vCenter=true&width=400&height=30&duration=2500&lines=📊+Data+Analytics+Dashboard;📈+Real-time+data+visualization;🔍+Advanced+filtering+options" alt="Project 3" /></div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header&text=Coding%20In&fontSize=40&fontAlignY=40" />
+
+<h2>💻 Coding In</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=🚀+Building+Real-Time+Chat+Applications;💬+WebSocket+based+Messaging+Systems;👥+Multi-room+Collaborative+Platforms;⚡+Scalable+Backend+APIs;🌐+Full-Stack+MERN+Applications" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=4FC08D&center=true&vCenter=true&width=650&lines=📊+Data+Analytics+Dashboards;📈+Real-time+Data+Visualization;🔍+Advanced+Filtering+and+Insights;🤖+AI+Powered+Applications;☁️+Cloud-Native+Systems" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+
+</div>
+
+---
 
 ---
 
