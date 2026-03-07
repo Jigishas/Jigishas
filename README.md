@@ -136,7 +136,7 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jigishas&theme=react-dark&hide_border=true&area=true" />
 
 <br>
 
