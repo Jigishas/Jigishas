@@ -110,7 +110,7 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 ---
 
 ### 📫 **Let's Build Something Amazing**
-💼 **LinkedIn:** [Joseph Gachuru]((https://www.linkedin.com/in/joseph-gachuru-375219350))  
+💼 **LinkedIn:** [Joseph Gachuru](https://www.linkedin.com/in/joseph-gachuru-375219350)  
 📱 **Phone/WhatsApp:** [whatsapp](https://wa.me/254743121169) <br/>
 💻 **Portfolio:** [my portfolio](https://portfolio-site-phi-self.vercel.app/)
 
