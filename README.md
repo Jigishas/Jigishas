@@ -96,9 +96,10 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,aws,docker,kubernetes,tensorflow&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,express,aws,docker,kubernetes,pytorch,git,tensorflow&perline=9" />
 
 <br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jigishas&theme=react-dark&hide_border=true&area=true" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 
@@ -132,11 +133,11 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 
 ### ⚡ Tech I Code With
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,express,aws,docker,kubernetes,tensorflow,pytorch,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,express,aws,docker,kubernetes,tensorflow,&perline=6" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jigishas&theme=react-dark&hide_border=true&area=true" />
+
 
 <br>
 
