@@ -30,16 +30,14 @@
 
 
 
-### 🛠️ **Technical Arsenal**
+### 🛠️ Technical Arsenal
 
-| **Domain** | **Technologies & Frameworks** |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **📊 Data Engineering** | Spark | Airflow | Kafka | AWS/GCP/Azure | Delta Lake |
-| **🤖 AI/ML Engineering** | TensorFlow | Scikit-learn | NLP | OpenCV | Transformers |
-| **🌐 Backend Development** | **MERN Stack** | Python | Node.js | PHP | REST APIs |
-| **⚙️ DevOps & Cloud** | Docker | Kubernetes | GitHub Actions | CI/CD Pipelines |
-
----
+| 📊 **Data Engineering** | Spark, Airflow, Kafka, AWS, GCP, Azure, Delta Lake |
+| 🤖 **AI/ML Engineering** | TensorFlow, Scikit-learn, NLP, OpenCV, Transformers |
+| 🌐 **Backend Development** | MERN Stack, Python, Node.js, PHP, REST APIs |
+| ⚙️ **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, CI/CD Pipelines |
 
 ### 🎯 **Innovation Focus**
 > 🔹 **MLOps & Scalability** (MLflow, Kubeflow)  
