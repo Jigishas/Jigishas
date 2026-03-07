@@ -84,22 +84,27 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header&text=Coding%20In&fontSize=40&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00c6ff,100:0072ff&height=140&section=header&text=Coding%20Universe&fontSize=40&fontAlignY=40&animation=fadeIn" />
 
-<h2>💻 Coding In</h2>
+<h2>💻 Currently Coding In</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=🚀+Building+Real-Time+Chat+Applications;💬+WebSocket+based+Messaging+Systems;👥+Multi-room+Collaborative+Platforms;⚡+Scalable+Backend+APIs;🌐+Full-Stack+MERN+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Building+Real-Time+Chat+Applications;💬+WebSocket+Powered+Messaging+Systems;👥+Scalable+Multi-room+Communication+Platforms;⚡+High-Performance+Backend+APIs;🌐+Full-Stack+MERN+Applications" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00FF9C&center=true&vCenter=true&width=750&lines=📊+Interactive+Data+Analytics+Dashboards;📈+Real-Time+Data+Visualization+Systems;🔍+Advanced+Data+Filtering+and+Insights;🤖+AI-Powered+Intelligent+Applications;☁️+Cloud-Native+Scalable+Architectures" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=4FC08D&center=true&vCenter=true&width=650&lines=📊+Data+Analytics+Dashboards;📈+Real-time+Data+Visualization;🔍+Advanced+Filtering+and+Insights;🤖+AI+Powered+Applications;☁️+Cloud-Native+Systems" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,aws,docker,kubernetes,tensorflow&perline=9" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 
 </div>
 
 ---
-
 ---
 
 ### 📫 **Let's Build Something Amazing**
