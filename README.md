@@ -114,6 +114,38 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 
 <br>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Developer%20Mode%20Activated&fontSize=40&color=0:00DBDE,100:FC00FF&animation=fadeIn" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=💻+Initializing+Development+Environment...;🚀+Building+Scalable+Backend+Systems;🌐+Creating+Full-Stack+Applications;🤖+Integrating+AI+and+Machine+Learning;☁️+Deploying+Cloud-Native+Solutions" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=📊+Designing+Real-Time+Data+Pipelines;📈+Developing+Analytics+Dashboards;⚡+Optimizing+High-Performance+APIs;🔍+Transforming+Data+Into+Insights;🧠+Engineering+Intelligent+Applications" />
+
+<br><br>
+
+### ⚡ Tech I Code With
+
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,express,aws,docker,kubernetes,tensorflow,pytorch,git&perline=6" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FC00FF,100:00DBDE"/>
+
+</div>
+
+---
+
 
 > **"Architecting the future, one line of code at a time."**<br/>
 > **Data → Intelligence → Scalable Systems → Impact**
