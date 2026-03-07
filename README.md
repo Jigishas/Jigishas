@@ -60,13 +60,27 @@
 > Focusing on **model transparency, bias mitigation, and secure AI deployment** to build trustworthy intelligent systems.
 
 ---
+### 💡 What I Bring
 
-### 💡 **What I Bring**
-- **End-to-End Solutions:** From data pipelines to polished web applications
-- **Scalable Architecture:** Cloud-native systems that grow with your needs
-- **Intelligent Backends:** APIs infused with data science capabilities
-- **Production-Ready Code:** Robust, tested, and deployable solutions
+🔹 **End-to-End Solutions**  
+Designing and delivering complete systems — from **data ingestion and processing pipelines to fully functional web applications**.
 
+🔹 **Scalable Architecture**  
+Building **cloud-native and distributed systems** that scale efficiently using modern infrastructure and microservices principles.
+
+🔹 **Intelligent Backends**  
+Developing **data-driven APIs and backend services** that integrate machine learning models, analytics, and automation capabilities.
+
+🔹 **Production-Ready Code**  
+Writing **clean, maintainable, and well-tested code** designed for reliability, performance, and smooth deployment.
+
+🔹 **Data-Driven Development**  
+Leveraging **data engineering, analytics, and machine learning** to create smarter and more impactful software solutions.
+
+🔹 **Strong Problem-Solving & Coding**  
+Applying **algorithmic thinking, efficient data structures, and best software engineering practices** to build optimized and reliable systems.
+
+---
 <div align="center"><!-- Project 1 Animation --><!-- Project 2 Animation --><h2>Coding in:</h2><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=61DAFB&center=true&vCenter=true&width=400&height=30&duration=5500&lines=🚀+Real-time+Chat+Application;💬+WebSocket+based+messaging;👥+Multi-room+chat+support" alt="Project 2" /><!-- Project 3 Animation --><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=18&color=4FC08D&center=true&vCenter=true&width=400&height=30&duration=2500&lines=📊+Data+Analytics+Dashboard;📈+Real-time+data+visualization;🔍+Advanced+filtering+options" alt="Project 3" /></div>
 
 ---
