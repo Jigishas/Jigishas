@@ -39,10 +39,25 @@
 | 🌐 **Backend Development** | MERN Stack, Python, Node.js, PHP, REST APIs |
 | ⚙️ **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, CI/CD Pipelines |
 
-### 🎯 **Innovation Focus**
-> 🔹 **MLOps & Scalability** (MLflow, Kubeflow)  
-> 🔹 **Real-time Data Systems** (Flink, Spark Streaming)  
-> 🔹 **Intelligent Applications** (LLMs, Generative AI, MERN Stack)
+### 🎯 Innovation Focus
+
+> 🔹 **MLOps & Scalable ML Systems**  
+> Building reliable machine learning pipelines using **MLflow, Kubeflow, and automated CI/CD** for model training, tracking, deployment, and monitoring.
+
+> 🔹 **Real-time Data Processing**  
+> Designing high-throughput streaming systems with **Apache Spark Streaming, Apache Flink, and Kafka** to process and analyze data in real time.
+
+> 🔹 **Intelligent Applications**  
+> Developing AI-powered platforms using **Large Language Models (LLMs), Generative AI, and the MERN Stack** to create interactive and data-driven applications.
+
+> 🔹 **Data Engineering & Analytics**  
+> Creating scalable data pipelines, ETL workflows, and data lakes using **Spark, Airflow, and modern cloud platforms (AWS/GCP/Azure)**.
+
+> 🔹 **Cloud-Native AI Infrastructure**  
+> Deploying containerized AI systems using **Docker, Kubernetes, and cloud-native architectures** for reliability, scalability, and performance.
+
+> 🔹 **Responsible & Ethical AI**  
+> Focusing on **model transparency, bias mitigation, and secure AI deployment** to build trustworthy intelligent systems.
 
 ---
 
