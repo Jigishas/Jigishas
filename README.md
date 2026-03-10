@@ -109,12 +109,31 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 ---
 ---
 
-### 📫 **Let's Build Something Amazing**
-💼 **LinkedIn:** [Joseph Gachuru](https://www.linkedin.com/in/joseph-gachuru-375219350)  
-📱 **Phone/WhatsApp:** [whatsapp](https://wa.me/254743121169) <br/>
-💻 **Portfolio:** [my portfolio](https://portfolio-site-phi-self.vercel.app/)
+## 📫 Let's Build Something Amazing
+
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/joseph-gachuru-375219350">
+  <img src="https://img.shields.io/badge/LinkedIn-Joseph%20Gachuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/254743121169">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-site-phi-self.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 <br>
+
+<p align="center">
+⭐ Open to collaborations, projects, and exciting tech opportunities!
+</p>
+
+---
 
 
 
