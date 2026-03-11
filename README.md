@@ -30,7 +30,7 @@
 
 
 
-### 🛠️ Tsdsed
+### 🛠️ T
 
 ### 🛠️ Technical Arsenal
 
