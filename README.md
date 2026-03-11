@@ -32,12 +32,15 @@
 
 ### 🛠️ Technical Arsenal
 
+### 🛠️ Technical Arsenal
+
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | 📊 **Data Engineering** | Spark, Airflow, Kafka, AWS, GCP, Azure, Delta Lake |
+| 📈 **Data Analytics** | Python, Pandas, NumPy, Excel, Power BI, Tableau, SQL, Data Visualization |
 | 🤖 **AI/ML Engineering** | TensorFlow, Scikit-learn, NLP, OpenCV, Transformers |
 | 🌐 **Backend Development** | MERN Stack, Python, Node.js, PHP, REST APIs |
-| 🗄️ **Database Administration** | MySQL, PostgreSQL, MongoDB, Database Design, Query Optimization, Backup & Recovery, Performance Tuning |
+| 🗄️ **Database Administration** | MySQL, PostgreSQL, MongoDB, SQL Server, Database Design, Query Optimization, Backup & Recovery, Performance Tuning |
 | ⚙️ **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, CI/CD Pipelines |
 
 ### 🎯 Innovation Focus
