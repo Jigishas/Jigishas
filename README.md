@@ -30,7 +30,7 @@
 
 
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Ar
 
 ### 🛠️ Technical Arsenal
 
