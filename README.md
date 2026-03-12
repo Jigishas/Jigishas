@@ -40,10 +40,6 @@
 ![Azure Cosmos DB](https://img.shields.io/badge/Azure_CosmosDB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![DuckDB](https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Trino](https://img.shields.io/badge/trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
-
 ![Apache Hive](https://img.shields.io/badge/apache_hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Presto](https://img.shields.io/badge/presto-5890FF?style=for-the-badge&logo=prestodb&logoColor=white)
 
