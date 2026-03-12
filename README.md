@@ -110,7 +110,7 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 ---
 ---
 
-## 📫 Let's Build Something Amazing
+## 📫 Let's Build Something Amazing together
 
 <p align="center">
   
