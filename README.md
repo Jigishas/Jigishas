@@ -43,8 +43,6 @@
 ![Apache Hive](https://img.shields.io/badge/apache_hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Presto](https://img.shields.io/badge/presto-5890FF?style=for-the-badge&logo=prestodb&logoColor=white)
 
-![Liquibase](https://img.shields.io/badge/liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
-![Flyway](https://img.shields.io/badge/flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 <h3 align="center">🚀 Data & Software Engineer | Cloud-Native Solutions | Turning Data into Impact</h3>
 <hr>
