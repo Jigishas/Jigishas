@@ -1,4 +1,4 @@
-Hello
+Hell
 #  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=700&height=70&duration=6500&lines=💫Hello+I+Am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I'm+a+Software+Developer.;" alt="Animated Typing Text" />
 
 <div align="center">
@@ -7,7 +7,7 @@ Hello
 
 <!-- Animated badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jigishas&color=blue" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/jigishas?label=Follow&style=social" alt="followers"/>
 </p>
 
