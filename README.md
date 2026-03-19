@@ -24,7 +24,33 @@
 ![Presto](https://img.shields.io/badge/presto-5890FF?style=for-the-badge&logo=prestodb&logoColor=white)
 
 
-<h3 align="center">🚀 Data & Software Engineer | Cloud-Native Solutions | Turning Data into Impact</h3>
+<h3 align="center">
+  <span style="
+    font-weight: bold;
+    background: linear-gradient(90deg, #00f5ff, #00ff87, #00f5ff);
+    background-size: 200% auto;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    animation: shine 3s linear infinite, blink 1.5s step-start infinite;
+  ">
+    🚀 Data & Software Engineer | Cloud-Native Solutions | Turning Data into Impact
+  </span>
+</h3>
+
+<style>
+@keyframes shine {
+  to {
+    background-position: 200% center;
+  }
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0.3;
+  }
+}
+</style>
 <hr>
 <!-- <h4 align="center">🔥 Passionate About Building Intelligent Better Systems</h4><br> -->
 <img 
