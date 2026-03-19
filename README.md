@@ -27,6 +27,14 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=🚀+Data+%26+Software+Engineer+%7C+Cloud-Native+Solutions+%7C+Turning+Data+into+Impact" />
 </h3>
+<h3 align="center">
+  <span style="
+    color:#00F5FF;
+    text-shadow: 0 0 5px #00F5FF, 0 0 10px #00F5FF, 0 0 20px #00FF87, 0 0 30px #00FF87;
+  ">
+    🚀 Data & Software Engineer | Cloud-Native Solutions | Turning Data into Impact
+  </span>
+</h3>
 <hr>
 <!-- <h4 align="center">🔥 Passionate About Building Intelligent Better Systems</h4><br> -->
 <img 
