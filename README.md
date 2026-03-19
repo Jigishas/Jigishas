@@ -24,7 +24,9 @@
 ![Presto](https://img.shields.io/badge/presto-5890FF?style=for-the-badge&logo=prestodb&logoColor=white)
 
 
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=🚀+Data+%26+Software+Engineer+%7C+Cloud-Native+Solutions+%7C+Turning+Data+into+Impact" />
+</h3>
 <hr>
 <!-- <h4 align="center">🔥 Passionate About Building Intelligent Better Systems</h4><br> -->
 <img 
