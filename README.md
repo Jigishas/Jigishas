@@ -126,6 +126,7 @@ Applying **algorithmic thinking, efficient data structures, and best software en
   <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 <br/>
+<br/>
 <a href="https://portfolio-site-phi-self.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
