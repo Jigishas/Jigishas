@@ -121,6 +121,7 @@ Applying **algorithmic thinking, efficient data structures, and best software en
   <img src="https://img.shields.io/badge/LinkedIn-Joseph%20Gachuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br/>
+<br/>
 <a href="https://wa.me/254743121169">
   <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
