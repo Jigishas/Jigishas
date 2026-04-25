@@ -90,15 +90,7 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:FC00FF,100:00DBDE"/>
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00c6ff,100:0072ff&height=140&section=header&text=Coding%20Universe&fontSize=40&fontAlignY=40&animation=fadeIn" />
 
-<h2 style="font=Roboto&size=35&color=00FF87&center=true">💻 Currently Coding In</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=8000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Building+Real-Time+Chat+Applications;💬+WebSocket+Powered+Messaging+Systems;👥+Scalable+Multi-room+Communication+Platforms;⚡+High-Performance+Backend+APIs;🌐+Full-Stack+MERN+Applications" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=9000&pause=700&color=00FF9C&center=true&vCenter=true&width=750&lines=📊+Interactive+Data+Analytics+Dashboards;📈+Real-Time+Data+Visualization+Systems;🔍+Advanced+Data+Filtering+and+Insights;🤖+AI-Powered+Intelligent+Applications;☁️+Cloud-Native+Scalable+Architectures" />
-
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,express,aws,docker,kubernetes,pytorch,git,tensorflow&perline=12" />
 
