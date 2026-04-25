@@ -85,8 +85,8 @@ Leveraging **data engineering, analytics, and machine learning** to create smart
 Applying **algorithmic thinking, efficient data structures, and best software engineering practices** to build optimized and reliable systems.
 
 ---
-
-<h2 style="font=Roboto&size=35&color=00FF87&center=true">💻 Currently Interested In</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=150&section=header&text=💻%20%20Currently%20Interested%20In&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<!-- <h2 style="font=Roboto&size=35&color=00FF87&center=true">💻 Currently Interested In</h2> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=8000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Building+Real-Time+Chat+Applications;💬+WebSocket+Powered+Messaging+Systems;👥+Scalable+Multi-room+Communication+Platforms;⚡+High-Performance+Backend+APIs;🌐+Full-Stack+MERN+Applications" />
 
