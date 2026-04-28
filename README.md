@@ -147,7 +147,7 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 
 > **"Architecting the future, one line of code at a time."**<br/>
 > **Data → Intelligence → Scalable Systems → Impact**
-
+> **Above And Beyond is my Bare Minimum**
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jigishas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jigishas&theme=dark&hide_border=false)<br/>
