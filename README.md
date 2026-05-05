@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=jigishas&color=blue" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/jigishas?label=Follow&style=social" alt="followers"/>
 </p>
-
+<h2>View my other badges--> https://www.credly.com/users/joseph-gachuru</h2>
 </div>
 
 
@@ -30,7 +30,7 @@
 </h3>
 <hr>
 <!-- <h4 align="center">🔥 Passionate About Building Intelligent Better Systems</h4><br> -->
-
+<h2></h2>
 
 ### 🛠️ Technical Arsenal
 
