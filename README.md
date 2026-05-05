@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=jigishas&color=blue" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/jigishas?label=Follow&style=social" alt="followers"/>
 </p>
-<h2>View my other badges--> https://www.credly.com/users/joseph-gachuru</h2>
+<h2 style="color:blue;">View my other badges--> https://www.credly.com/users/joseph-gachuru</h2>
 </div>
 
 
