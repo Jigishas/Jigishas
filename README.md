@@ -15,7 +15,7 @@
 </div>
 
 <br>
-<h2 style="color:blue;">View my other badges--> https://www.credly.com/users/joseph-gachuru</h2>
+<h2 style="color:blue;">View my other badges --> https://www.credly.com/users/joseph-gachuru</h2>
 
 
 # 💻 Tech Stack:
