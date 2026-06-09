@@ -1,5 +1,12 @@
 
 
+
+
+
+
+
+
+
 #  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=💫Hello+I+Am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I+am+a+Software+Eng.+and+a+Product+Manager.;" alt="Animated Typing Text" />
 
 <div align="center">
@@ -13,6 +20,14 @@
 </p>
 
 </div>
+
+
+
+
+
+
+
+
 
 <br>
 <h2 style="color:blue;">View my other badges --> https://www.credly.com/users/joseph-gachuru</h2>
@@ -150,10 +165,10 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 > **Data → Intelligence → Scalable Systems → Impact**
 > **Above And Beyond is my Bare Minimum**
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jigishas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jigishas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jigishas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jigishas&theme=tokyonight" />
+</p>
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=jigishas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
