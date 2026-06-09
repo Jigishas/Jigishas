@@ -1,6 +1,7 @@
 ![Snake animation](https://githubusercontent.com)
 
 
+![Snake Animation](https://githubusercontent.com)
 
 
 
