@@ -1,7 +1,7 @@
 ![Snake animation](https://githubusercontent.com)
 
 
-![snake gif](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake.svg))`
+![snake gif](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake Animation](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake-dark.svg)
 
