@@ -5,7 +5,7 @@
 
 ![Snake Animation](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Snake Animation](https://githubusercontent.com)
+
 
 
 
