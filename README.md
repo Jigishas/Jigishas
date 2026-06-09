@@ -2,9 +2,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jigishas&theme=tokyo-night" />
-</p>
+
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Jigishas/Jigishas/output/github-contribution-grid-snake.svg" />
@@ -128,11 +126,11 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,express,aws,docker,kubernetes,pytorch,git,tensorflow&perline=12" />
 
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jigishas&theme=react-dark&hide_border=true&area=true" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jigishas&theme=react-dark&hide_border=true&area=true" /> -->
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jigishas&theme=tokyo-night" />
-</p> -->
+</p> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FC00FF,100:00DBDE"/>
 
