@@ -6,7 +6,6 @@
 
 
 
-
 #  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=💫Hello+I+Am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I+am+a+Software+Eng.+and+a+Product+Manager.;" alt="Animated Typing Text" />
 
 <div align="center">
@@ -169,6 +168,10 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jigishas&theme=tokyonight" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=jigishas&theme=tokyonight" />
+</p> -->
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=jigishas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
