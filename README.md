@@ -191,6 +191,6 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 ---
 [![](https://visitcount.itsvg.in/api?id=jigishas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![snake gif](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
