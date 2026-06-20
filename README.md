@@ -193,10 +193,10 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 </p> -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jigishas&show_icons=true&theme=github_dark" />
+  <img height="370" src="https://github-readme-stats.vercel.app/api?username=jigishas&show_icons=true&theme=github_dark" />
   <!-- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jigishas&theme=github-dark-blue" /> -->
 </p>
-![](https://github-profile-trophy.vercel.app/?username=jigishas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=jigishas&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
 
