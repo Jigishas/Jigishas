@@ -204,7 +204,17 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 <!-- ![snake gif](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake-dark.svg)-->
 
 
- <p align="center">
+ <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Jigishas/Jigishas/output/github-contribution-grid-snake.svg" />
-</p> 
+</p> -->
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jigishas/Jigishas/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Jigishas/Jigishas/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
