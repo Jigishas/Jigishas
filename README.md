@@ -1,9 +1,9 @@
 
 
 
- <p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Jigishas/Jigishas/output/github-contribution-grid-snake.svg" />
-</p> 
+</p>  -->
 
 
 
@@ -201,6 +201,10 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 ---
 [![](https://visitcount.itsvg.in/api?id=jigishas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- ![snake gif](https://github.com/Jigishas/Jigishas/blob/output/github-contribution-grid-snake-dark.svg)-->
 
+
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Jigishas/Jigishas/output/github-contribution-grid-snake.svg" />
+</p> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
