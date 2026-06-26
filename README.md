@@ -9,7 +9,7 @@
 
 
 
-#  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=💫Hello+This+is+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I+am+a+Dedicated+Software+Engineer.;" alt="Animated Typing Text" />
+#  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=💫Hello,+ +This+is+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I+am+a+Passionate+Software+Engineer.;" alt="Animated Typing Text" />
 
 <div align="center">
 <!-- Animated GIF -->
