@@ -9,7 +9,7 @@
 
 
 
-#  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=💫Hello,+I+am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I+am+a+dedicated+Software+Engineer.;" alt="Animated Typing Text" />
+#  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&color=blue&center=true&vCenter=true&width=800&height=70&duration=6700&lines=Hello,+I+am+Joseph+Gachuru!;🔥Nice+to+meet+you!;💡I+am+a+dedicated+Software+Engineer.;" alt="Animated Typing Text" />
 
 <div align="center">
 <!-- Animated GIF -->
@@ -137,34 +137,75 @@ Applying **algorithmic thinking, efficient data structures, and best software en
 ---
 
 ---
-
-## 📫 Let's Build Something Amazing together
-<br/>
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/joseph-gachuru-375219350">
-  <img src="https://img.shields.io/badge/LinkedIn-Joseph%20Gachuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br/>
-<br/>
-<a href="https://wa.me/254743121169">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<br/>
-<br/>
-<a href="https://portfolio-site-phi-self.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
+##  Let's Build Something Amazing Together
 
 <p align="center">
-⭐ Open to collaborations, projects, and exciting tech opportunities!
+  <em>
+    I’m passionate about building scalable software, solving meaningful problems,
+    and turning ideas into impactful digital experiences.
+  </em>
 </p>
 
----
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseph-gachuru-375219350">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-site-phi-self.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/254743121169">
+    <img src="https://img.shields.io/badge/WhatsApp-Let's%20Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <h3>💼 Connect</h3>
+      <sub>Let's grow, collaborate & share ideas</sub>
+    </td>
+    <td align="center" width="220">
+      <h3>🚀 Collaborate</h3>
+      <sub>Build innovative solutions together</sub>
+    </td>
+    <td align="center" width="220">
+      <h3>🌐 Explore</h3>
+      <sub>Discover my projects & experience</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <strong>💡 Have an idea, project, or opportunity?</strong>
+  <br/>
+  <sub>Let's turn it into something extraordinary.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseph-gachuru-375219350">
+    <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-%E2%86%92-111827?style=for-the-badge" alt="Start a Conversation"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0A66C2,100:25D366&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
+
+
 
 
 
