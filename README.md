@@ -228,10 +228,10 @@ Applying **algorithmic thinking, efficient data structures, and best software en
   <!-- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jigishas&theme=github-dark-blue" /> -->
 </p>
 <!-- ![](https://github-profile-trophy.vercel.app/?username=jigishas&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-<!--
+
 ### 🔝 Top Contributed Repo
 
-<!--![](https://github-contributor-stats.vercel.app/api?username=jigishas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-![](https://github-contributor-stats.vercel.app/api?username=jigishas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jigishas&icon=0&color=0)](https://visitcount.itsvg.in)
