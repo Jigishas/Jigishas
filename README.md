@@ -22,8 +22,6 @@
 
 
 
-
-
 <br>
 <h2 style="color:blue;">View other badges --> https://www.credly.com/users/joseph-gachuru</h2>
 
